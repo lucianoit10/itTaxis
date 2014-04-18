@@ -1,0 +1,51 @@
+17:46:12,291 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+17:46:12,676 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 2.1.0-release) : Enhancement of classes
+17:46:13,001 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/bin/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+17:46:13,032 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/src/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+17:49:58,483 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+17:49:58,853 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 2.1.0-release) : Enhancement of classes
+17:49:59,201 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/bin/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+17:49:59,235 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/src/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:04:06,374 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+18:04:06,741 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 2.1.0-release) : Enhancement of classes
+18:04:07,110 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/bin/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:04:07,165 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/src/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:07:08,242 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+18:07:08,620 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 2.1.0-release) : Enhancement of classes
+18:07:08,957 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/bin/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:07:08,987 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/src/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:11:29,335 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+18:11:29,720 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 2.1.0-release) : Enhancement of classes
+18:11:29,997 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/bin/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:11:30,028 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/src/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:12:11,695 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+18:12:12,071 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 2.1.0-release) : Enhancement of classes
+18:12:12,347 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/bin/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:12:12,381 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/src/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:23:53,833 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+18:23:54,255 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 2.1.0-release) : Enhancement of classes
+18:23:54,567 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/bin/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:23:54,601 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/src/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:25:56,447 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+18:25:56,844 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 2.1.0-release) : Enhancement of classes
+18:25:57,176 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/bin/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+18:25:57,223 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/src/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+15:14:41,080 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+15:14:41,734 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 2.1.0-release) : Enhancement of classes
+15:14:42,243 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/bin/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+15:14:42,289 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/src/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+15:29:50,588 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer : Using ClassEnhancer "ASM" for API "JDO"
+15:29:50,921 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 2.1.0-release) : Enhancement of classes
+15:29:51,173 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/bin/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+15:29:51,201 (main) WARN  [DataNucleus.MetaData] - Error en el analizo del archivo "file:/home/lucho/workspace/Servidor/src/servidor/Persistencia/Dominio/package.jdo" a la linea 5, columna 6 : cvc-elt.1: No se ha encontrado la declaración del elemento 'jdo'. - Por favor compruebe el DTD y la validad de este MetaData.
+15:29:51,226 (main) INFO  [DataNucleus.MetaData] - La clase "servidor.Assemblers.ObjetoAssembler" no tiene MetaData o annotaciones.
+15:29:51,228 (main) INFO  [DataNucleus.MetaData] - La clase "servidor.Main" no tiene MetaData o annotaciones.
+15:29:51,232 (main) INFO  [DataNucleus.MetaData] - La clase "servidor.Persistencia.AccesoBD" no tiene MetaData o annotaciones.
+15:29:51,235 (main) INFO  [DataNucleus.MetaData] - La clase "servidor.Persistencia.Singleton$NewSingletonHolder" no tiene MetaData o annotaciones.
+15:29:51,238 (main) INFO  [DataNucleus.MetaData] - La clase "servidor.Persistencia.Singleton" no tiene MetaData o annotaciones.
+15:29:51,240 (main) INFO  [DataNucleus.MetaData] - La clase "servidor.Servidor" no tiene MetaData o annotaciones.
+15:29:51,244 (main) INFO  [DataNucleus.MetaData] - La clase "servidor.SingletonConexion" no tiene MetaData o annotaciones.
+15:29:51,248 (main) INFO  [DataNucleus.MetaData] - La clase "servidor.Test.Test" no tiene MetaData o annotaciones.
+15:29:51,350 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/lucho/workspace/Servidor/bin/servidor/Persistencia/Dominio/Objeto.class" with enhanced definition
+15:29:51,350 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (PersistenceCapable) : servidor.Persistencia.Dominio.Objeto
+15:29:51,351 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 1 classes. Timings : input=322 ms, enhance=102 ms, total=424 ms. Consult the log for full details

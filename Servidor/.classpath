@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Comun"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Drivers/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Drivers/postgresql-9.2-1003.jdbc4.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Datanucleus/asm-3.1.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Datanucleus/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Datanucleus/datanucleus-core-2.2.0-m1.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Datanucleus/datanucleus-enhancer-2.1.0-release.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Datanucleus/datanucleus-rdbms-2.2.0-m1.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Datanucleus/jdo2-api-2.3-eb.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Datanucleus/jdo-api-3.0.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Datanucleus/jdt-compiler-3.1.1.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Datanucleus/jpa.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Datanucleus/log4j-1.2.7.jar"/>
+	<classpathentry kind="lib" path="/home/lucho/workspace/Librerias/Datanucleus/persistence-api-1.0.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
